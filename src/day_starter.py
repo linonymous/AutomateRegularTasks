@@ -22,6 +22,6 @@ os.startfile("C:\\Program Files (x86)\\Cisco Systems\\Cisco Jabber\\CiscoJabber.
 
 """open chrome and necessary websites"""
 chrome = webbrowser.get("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s")
-chrome.open("https://jira.community.veritas.com/secure/Dashboard.jspa")
-chrome.open("https://stash.veritas.com")
+chrome.open("https://jira.community.com/secure/Dashboard.jspa")
+chrome.open("https://stash.com")
 chrome.open("www.quora.com")
